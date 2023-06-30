@@ -1,0 +1,14 @@
+<div class="container">
+  <div class="active:rotate-12">
+    <div class="active:animate-spin active:ml-52 active:mt-20 active:w-96 active:bg-slate-500 animate-bounce">
+    <div class="mt-48 bg-black w-auto h-3 ml-2"></div>
+    <div class="rounded-full cursor-pointer -mt-20 ml-1 hover:bg-black bg-yellow-500 w-32 h-32"></div>
+    <div class="rounded-full cursor-pointer -mt-28 ml-auto hover:bg-black bg-blue-600 w-32 h-32"></div>
+  </div>
+  <div class="active:animate-spin active:ml-52 active:w-96 active:bg-slate-500 animate-bounce">
+    <div class="mt-96 bg-black w-auto h-3 ml-2"></div>
+    <div class="rounded-full cursor-pointer -mt-16 ml-1 hover:bg-black bg-red-500 w-32 h-32"></div>
+    <div class="rounded-full cursor-pointer -mt-32 ml-auto hover:bg-black bg-purple-500 w-32 h-32"></div>
+  </div>
+  </div>
+</div>
