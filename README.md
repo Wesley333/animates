@@ -1,4 +1,4 @@
-# animates
+# index.html
 
 
 ![image](https://github.com/Wesley333/animates/assets/86034843/fb3b44b4-27e8-4586-89f9-aac474fd7fe1)
