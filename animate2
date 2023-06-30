@@ -9,21 +9,21 @@
   <title>Animate2</title>
 </head>
 <body>
- <div class="flex items-center justify-between mt-20 bg-black text-center text-6xl text-yellow-500">
+ <div class="mt-20 flex items-center justify-between bg-black text-center text-6xl text-yellow-500">
   <div class="animate-pulse">
-    <div class="ml-3 mt-3 h-32 w-32 cursor-pointer rounded-full bg-yellow-500 hover:bg-black">1</div>
-    <div class="ml-3 mt-32 h-32 w-32 cursor-pointer rounded-full bg-yellow-500 hover:bg-black">4</div>
-    <div class="mb-5 ml-3 mt-32 h-32 w-32 cursor-pointer rounded-full bg-yellow-500 hover:bg-black">7</div>
+    <div class="ml-3 mt-3 h-32 w-32 cursor-pointer flex justify-center items-center rounded-full bg-yellow-500 hover:bg-black">1</div>
+    <div class="ml-3 mt-32 h-32 w-32 cursor-pointer flex justify-center items-center rounded-full bg-yellow-500 hover:bg-black">4</div>
+    <div class="mb-5 ml-3 mt-32 h-32 w-32 cursor-pointer flex justify-center items-center rounded-full bg-yellow-500 hover:bg-black">7</div>
   </div>
   <div class="animate-pulse">
-    <div class="ml-20 mt-3 h-32 w-32 cursor-pointer rounded-full bg-yellow-500 hover:bg-black">2</div>
-    <div class="ml-20 mt-32 h-32 w-32 cursor-pointer rounded-full bg-yellow-500 hover:bg-black">5</div>
-    <div class="ml-20 mt-32 h-32 w-32 cursor-pointer rounded-full bg-yellow-500 hover:bg-black">8</div>
+    <div class="ml-20 mt-3 h-32 w-32 cursor-pointer flex justify-center items-center rounded-full bg-yellow-500 hover:bg-black">2</div>
+    <div class="ml-20 mt-32 h-32 w-32 cursor-pointer flex justify-center items-center rounded-full bg-yellow-500 hover:bg-black">5</div>
+    <div class="ml-20 mt-32 h-32 w-32 cursor-pointer flex justify-center items-center rounded-full bg-yellow-500 hover:bg-black">8</div>
   </div>
   <div class="animate-pulse">
-    <div class="ml-20 mr-4 mt-3 h-32 w-32 cursor-pointer rounded-full bg-yellow-500 hover:bg-black">3</div>
-    <div class="ml-20 mt-32 h-32 w-32 cursor-pointer rounded-full bg-yellow-500 hover:bg-black">6</div>
-    <div class="ml-20 mt-32 h-32 w-32 cursor-pointer rounded-full bg-yellow-500 hover:bg-black">9</div>
+    <div class="ml-20 mr-4 mt-3 h-32 w-32 cursor-pointer flex justify-center items-center rounded-full bg-yellow-500 hover:bg-black">3</div>
+    <div class="ml-20 mt-32 h-32 w-32 cursor-pointer flex justify-center items-center rounded-full bg-yellow-500 hover:bg-black">6</div>
+    <div class="ml-20 mt-32 h-32 w-32 cursor-pointer flex justify-center items-center rounded-full bg-yellow-500 hover:bg-black">9</div>
   </div>
 </div>
 
