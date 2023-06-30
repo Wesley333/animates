@@ -1,4 +1,16 @@
-<div class="container">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="favicon.ico">
+  <link rel="stylesheet" href="out.css">
+  <title>Animate1</title>
+</head>
+<body>
+
+  <div class="container">
   <div class="active:rotate-12">
     <div class="active:animate-spin active:ml-52 active:mt-20 active:w-96 active:bg-slate-500 animate-bounce">
     <div class="mt-48 bg-black w-auto h-3 ml-2"></div>
@@ -12,3 +24,6 @@
   </div>
   </div>
 </div>
+  
+</body>
+</html>
