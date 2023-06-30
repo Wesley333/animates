@@ -9,6 +9,12 @@
 
 
 
+## animate2
+
+[Clique aqui para ver a animação funcionando](https://github.com/Wesley333/animates/assets/86034843/3011862c-afbf-424e-a17c-047bb8d0910d)
+
+
+
 
 
 
