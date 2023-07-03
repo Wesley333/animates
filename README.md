@@ -18,14 +18,9 @@
 [Clique aqui para ver a animação funcionando](https://github.com/Wesley333/animates/assets/86034843/f6fbe851-b7b1-4a59-82d2-72631d473d5b)
 
 
+## animate3
 
-
-
-
-
-
-
-
+[Clique aqui para ver a animação funcionando](https://github.com/Wesley333/animates/assets/86034843/247b75db-d51a-40be-9271-e7cd7d72ee65)
 
 
 
