@@ -9,7 +9,7 @@
   <title>animate3</title>
 </head>
 <body>
- <div class="flex h-screen w-full items-center justify-center bg-black">
+  <div class="flex h-screen w-full items-center justify-center bg-black">
   <div class="h-20 w-20 animate-bounce-slow rounded-b-3xl rounded-r-3xl border-4 border-red-600 bg-white">
     <div class="h-20 w-20 rounded-b-3xl rounded-r-3xl border-4 border-red-600 bg-white">
       <div class="h-20 w-20 rounded-b-3xl rounded-r-3xl border-4 border-red-600 bg-white">
@@ -31,7 +31,6 @@
 
 </body>
 </html>
-
 
 (CONFIG TAILWIND CSS)
 module.exports = {
