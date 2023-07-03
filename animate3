@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="favicon.ico">
+  <link rel="stylesheet" href="out.css">
+  <title>animate3</title>
+</head>
+<body>
+  <div class="flex h-screen w-full items-center justify-center bg-black">
+  <div class="animate-bounce-slow h-20 w-20 rounded-b-3xl rounded-r-3xl border-4 border-red-600 bg-white">
+    <div class="h-20 w-20 rounded-b-3xl rounded-r-3xl border-4 border-red-600 bg-white">
+      <div class="h-20 w-20 rounded-b-3xl rounded-r-3xl border-4 border-red-600 bg-white">
+        <div class="h-20 w-20 rounded-b-3xl rounded-r-3xl border-4 border-red-600 bg-white">
+          <div class="fixed ml-4 mt-4 h-10 w-10 rounded-full bg-black">
+            <div class="fixed -ml-1 -mt-1 h-12 w-12 rotate-12 rounded-full bg-red-600">
+              <div class="fixed ml-3 h-12 w-12 rounded-full bg-white">
+                <div class="fixed -ml-3 h-12 w-12 rotate-45 rounded-full bg-blue-500 active:invisible">
+                  <div class="-ml-2 mt-2 h-12 w-12 rounded-full bg-white"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
+
+
+(CONFIG TAILWIND CSS)
+module.exports = {
+  theme: {
+    extend: {
+     animation: {
+        'bounce-slow': 'bounce 3s linear infinite',
+      }
+    },
+  },
+  plugins: [],
+}
