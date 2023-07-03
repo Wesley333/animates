@@ -1,0 +1,7 @@
+<div class="flex h-screen w-full items-center justify-center bg-blue-500">
+  <div class="bg-slate-800">
+    <div class="h-52 w-80 border-8 border-b-amber-900 border-l-cyan-400 border-r-orange-300 border-t-teal-400">
+      <div class="h-44 w-full bg-slate-700 active:h-10"></div>
+    </div>
+  </div>
+</div>
