@@ -10,7 +10,7 @@
 
 ## animate2
 
-[Clique aqui para ver a animação funcionando](https://github.com/Wesley333/animates/assets/86034843/72f8e207-f434-48fb-845f-40398dca1004)
+[Clique aqui para ver a animação funcionando](https://github.com/Wesley333/animates/assets/86034843/fcc0d976-8cc8-4475-a352-8bcfac66b5d4)
 
 
 ## loading
@@ -21,6 +21,10 @@
 ## animate3
 
 [Clique aqui para ver a animação funcionando](https://github.com/Wesley333/animates/assets/86034843/247b75db-d51a-40be-9271-e7cd7d72ee65)
+
+
+
+
 
 
 
