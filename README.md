@@ -15,12 +15,15 @@
 
 ## animate4
 
-[Clique aqui para ver a animação funcionando](https://github.com/Wesley333/animates/assets/86034843/ca3d283c-96ec-4c63-a5a8-4d81e9eaded5)
+[Clique aqui para ver a animação funcionando](https://github.com/Wesley333/animates/assets/86034843/ac8484fc-d909-43b7-98ee-52e6c5c961a4)
 
 
 ## loading
 
 [Clique aqui para ver a animação funcionando](https://github.com/Wesley333/animates/assets/86034843/f6fbe851-b7b1-4a59-82d2-72631d473d5b)
+
+
+
 
 
 
