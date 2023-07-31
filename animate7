@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="favicon.ico">
+  <link rel="stylesheet" href="out.css">
+  <title>Animate7</title>
+</head>
+<body>
+  <div class="flex h-screen w-full items-center justify-center border-8 border-white bg-black">
+  <div
+    class="m-1 h-16 w-16 cursor-pointer border-8 border-double border-emerald-600 bg-lime-100 hover:h-44 hover:w-44 hover:border-blue-800 active:h-80 active:w-80 active:animate-bounce active:border-8 active:border-emerald-600 active:bg-lime-200">
+  </div>
+  <div
+    class="h-16 w-16 cursor-pointer rounded-full border-8 border-double border-blue-800 bg-lime-100 hover:h-44 hover:w-44 hover:border-emerald-600 active:h-80 active:w-80 active:animate-bounce active:border-8 active:border-blue-800 active:bg-lime-200">
+  </div>
+</div>
+</body>
+</html>
