@@ -10,9 +10,13 @@
 </head>
 <body>
   <div class="flex h-screen w-full items-center justify-center border-8 border-white bg-black">
-  <div class="h-32 w-32 rounded-full bg-red-300"></div>
-  <div class="-ml-8 h-32 w-32 rounded-full bg-red-300"></div>
-  <div class="-ml-44 mt-24 h-32 w-32 rotate-45 bg-red-300"></div>
+  <div class="flex h-screen w-full animate-pulse items-center justify-center">
+    <div class="fixed h-32 w-32 rounded-full bg-red-500">
+      <div class="fixed ml-24 h-32 w-32 rounded-full bg-red-500">
+        <div class="-ml-12 mt-12 h-32 w-32 rotate-45 bg-red-500"></div>
+      </div>
+    </div>
+  </div>
 </div>
 </body>
 </html>
