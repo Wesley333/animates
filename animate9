@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="favicon.ico">
+  <link rel="stylesheet" href="out.css">
+  <title>Tailwind CSS</title>
+</head>
+<body>
+  <div class="flex h-screen w-full items-center justify-center border-8 border-gray-500 bg-blue-100">
+  <div class="fixed -mt-96 h-64 w-40 border-8 border-double border-slate-600 bg-slate-100 shadow-md shadow-black"></div>
+  <div class="fixed -ml-28 -mt-96 h-3 w-3 rounded-full bg-black"></div>
+  <div class="-mt-24 ml-44 h-52 w-2 rotate-90 bg-black shadow-md shadow-black"></div>
+  <div class="-mt-14 ml-6 h-52 w-2 rotate-90 bg-black shadow-md shadow-black"></div>
+  <div class="-mt-4 ml-6 h-52 w-2 rotate-90 bg-black shadow-md shadow-black"></div>
+  <div class="ml-6 mt-6 h-52 w-2 rotate-90 bg-black shadow-md shadow-black"></div>
+  <div class="ml-6 mt-16 h-52 w-2 rotate-90 bg-black shadow-md shadow-black"></div>
+  <div class="ml-6 mt-28 h-52 w-2 rotate-90 bg-black shadow-md shadow-black"></div>
+  <div class="mt-40 h-52 w-2 rotate-90 bg-black shadow-md shadow-black"></div>
+  <div class="fixed ml-80 mt-52 h-52 w-2 rotate-90 bg-black shadow-md shadow-black"></div>
+  <div class="fixed ml-72 mt-64 h-52 w-2 rotate-90 bg-black shadow-md shadow-black"></div>
+  <div class="fixed ml-64 mt-80 h-52 w-2 rotate-90 bg-black shadow-md shadow-black"></div>
+  <div class="fixed ml-52 mt-96 h-52 w-2 rotate-90 bg-black shadow-md shadow-black"></div>
+</div>
+</body>
+</html>
