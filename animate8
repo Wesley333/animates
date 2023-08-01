@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="favicon.ico">
+  <link rel="stylesheet" href="out.css">
+  <title>Animate8</title>
+</head>
+<body>
+  <div class="flex h-screen w-full items-center justify-center border-8 border-gray-500 bg-blue-100">
+  <div
+    class="h-96 w-96 cursor-pointer rounded-full border-8 border-double bg-white shadow-2xl shadow-slate-700 hover:animate-spin active:border-dashed active:border-blue-500">
+    <div
+      class="ml-12 mt-40 h-14 w-72 rotate-45 border-y-2 border-e-8 border-l-8 border-e-gray-400 border-l-gray-400 bg-black shadow-2xl shadow-black">
+    </div>
+    <div
+      class="-mt-14 ml-9 h-14 w-72 -rotate-45 border-y-2 border-e-8 border-l-8 border-e-gray-400 border-l-gray-400 bg-black shadow-2xl shadow-black">
+    </div>
+  </div>
+</div>
+</body>
+</html>
