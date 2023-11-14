@@ -1,0 +1,19 @@
+<div class="mt-40 flex justify-center">
+  <div class="fixed h-72 w-72 rounded-full bg-black">
+    <div class="ml-6 mt-11 h-60 w-60 rounded-full bg-white"></div>
+  </div>
+  <div class="absolute -ml-32 mt-1 h-24 w-24 animate-spin cursor-pointer rounded-full bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
+    <div class="absolute ml-2 mt-2 h-20 w-20 rounded-full bg-black from-green-500 via-green-300 hover:bg-gradient-to-r focus:bg-red-600"></div>
+  </div>
+  <div class="fixed -ml-28 mt-9 h-10 w-10 animate-spin cursor-pointer rounded-full bg-white hover:bg-red-500"></div>
+  <div class="absolute ml-40 mt-1 h-24 w-24 animate-spin cursor-pointer rounded-full bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
+    <div class="absolute ml-2 mt-2 h-20 w-20 rounded-full bg-black from-green-500 via-green-300 hover:bg-gradient-to-r focus:bg-red-600"></div>
+  </div>
+  <div class="fixed ml-40 mt-9 h-10 w-10 animate-spin cursor-pointer rounded-full bg-white hover:bg-red-500"></div>
+  <div class="fixed mt-44 h-16 w-24 rounded-b-full bg-black">
+    <div class="fixed -mt-4 ml-2 h-10 w-10 rounded-b-full bg-white"></div>
+    <div class="fixed -mt-4 ml-14 h-10 w-10 rounded-b-full bg-white"></div>
+    <div class="fixed ml-14 h-7 w-7 rounded-b-full bg-black"></div>
+    <div class="fixed ml-5 h-7 w-7 rounded-b-full bg-black"></div>
+  </div>
+</div>
