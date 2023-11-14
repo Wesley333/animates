@@ -22,6 +22,10 @@
 
 [Clique aqui para ver a animação funcionando](https://github.com/Wesley333/animates/assets/86034843/f6fbe851-b7b1-4a59-82d2-72631d473d5b)
 
+##animate01
+![image](https://github.com/Wesley333/animates/assets/86034843/b7bbafa9-065f-4258-8d5e-40e59afc9079)
+
+
 
 
 
